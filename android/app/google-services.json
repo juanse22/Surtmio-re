@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063349088201",
+    "project_id": "surtmio-rebuild",
+    "storage_bucket": "surtmio-rebuild.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063349088201:android:e122455d6f611afe004218",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gcFHpYBPqdNLMMVWfayYHHaCxurwACg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
